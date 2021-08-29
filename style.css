@@ -19,7 +19,6 @@ body{
     overflow-y: hidden;
     overflow-x: auto;
     padding: 10px;
-    scroll-snap-type: x mandatory;
 }
 .row_posters:hover{
     transform: scale(1.03) ;
